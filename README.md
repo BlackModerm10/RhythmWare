@@ -15,7 +15,7 @@ Sigue este orden para que podamos comparar tus conocimientos y tu experiencia co
 1. **Antes de abrir el juego, completa el [pretest: conocimientos previos y expectativas](https://forms.gle/tWyXDhHbhvTkP41b9).**
 2. Descarga el ZIP, extrae toda su carpeta y abre `RhythmWare.exe`.
 3. Elige un alias, configura el audio y comienza con **Sara / Tutorial guiado**. Después prueba los otros niveles de la campaña y la Academia SOC.
-4. **Al terminar tu sesión, completa el [postest: experiencia después de jugar](https://forms.gle/tezAaDqva4wV9uhdA).**
+4. **Al terminar tu sesión, completa el [postest: experiencia después de jugar](https://forms.gle/tZ7bom8BJFBErc5u6).**
 
 Si los formularios solicitan un identificador, utiliza el mismo en ambos. Los formularios se completan fuera del juego; las respuestas de la Academia SOC son un registro distinto.
 
